@@ -1,2 +1,2 @@
 # Marioclub
-I developed frontend 1 page website using  html , css and media query
+I developed frontend 2 page website using  html , css and media query
